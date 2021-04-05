@@ -10,4 +10,4 @@
 6) MLFQ: Multilevel Feedback Queue
 7) Lottery (Proportional Share)
 
-# N process can be scheduled with any number of CPU and IO burst
+N process can be scheduled with any number of CPU and IO burst
